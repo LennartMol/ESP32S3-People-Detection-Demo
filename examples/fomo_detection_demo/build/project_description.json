@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "fomo_detection_demo",
-    "project_version":    "4acdaa3-dirty",
+    "project_version":    "8e9f206-dirty",
     "project_path":       "C:/Users/lenna/Documents/GitHub/ESP32S3-People-Detection-Demo/examples/fomo_detection_demo",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1",
     "build_dir":          "C:/Users/lenna/Documents/GitHub/ESP32S3-People-Detection-Demo/examples/fomo_detection_demo/build",
