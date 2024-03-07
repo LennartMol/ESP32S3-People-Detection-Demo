@@ -1,7 +1,5 @@
 .vscode
-build
 release_**
-sdkconfig
 sdkconfig.old
 *.old
 *.o
